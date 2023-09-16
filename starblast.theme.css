@@ -36,12 +36,12 @@
   --middle-brightness: 0.3;
   --right-brightness: 0.5;
   --overlay-brightness: 1;
-  --gradient-primary: 86,123,176;
-  --gradient-secondary: 120,132,202;
+  --gradient-primary: 86, 123, 176;
+  --gradient-secondary: 120, 132, 202;
   --link-colour: #00B8FF;
-  --scrollbar-colour: rgb(77,130,208,0.6);
+  --scrollbar-colour: rgb(77, 130, 208, 0.6);
   --gradient-direction: 320deg;
-  --tint-colour: 56,88,106;
+  --tint-colour: 56, 88, 106;
   --tint-brightness: 0.3;
   --font: Play;
   --window-padding: 16px;
@@ -51,4 +51,6 @@
 
 /* Any custom CSS below here */
 
-
+* {
+  cursor: url('https://starblast.data.neuronality.com/cursor/sbcursor32.png') 0 0, auto !important;
+}
